@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "dry_dates_1-removebg-preview",
+  "identifier": "texture:97104-2fb2bf96-cf53-4f11-a958-b5b7e4481add",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "231b47214503292d0f050ee204990e1a",
+  "assetLocator": "textures/dry_dates_1-removebg-preview.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 500,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 500,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "231b47214503292d0f050ee204990e1a",
+      "colorCount": 72156,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 8.655437801665517,
+      "pixelsHigh": 500,
+      "pixelsWide": 500
+    }
+  ]
+}

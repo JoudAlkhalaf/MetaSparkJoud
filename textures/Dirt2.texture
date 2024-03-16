@@ -1,0 +1,37 @@
+{
+  "modelName": "texture",
+  "name": "Dirt2",
+  "identifier": "texture:93028-2fb2bf96-cf53-4f11-a958-b5b7e4481add",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "736ed61648403ec81e01118fd37f0e50",
+  "assetLocator": "textures/Dirt2.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "externalSourceLocator": "sparkarstudio://arlibrary/facebook/texture/4870948249659431",
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "736ed61648403ec81e01118fd37f0e50",
+      "colorCount": 256,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0.9360031072244314,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}
